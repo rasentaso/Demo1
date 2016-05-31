@@ -1,1 +1,1 @@
-# MVSample1
+# Pluginのデモ予定
